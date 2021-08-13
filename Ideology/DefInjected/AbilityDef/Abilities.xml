@@ -4,7 +4,7 @@
   <!-- EN: Animal calm -->
   <AnimalCalm.label>Calmer un animal</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
-  <AnimalCalm.description>Utilise une métohde unique de connexion avec les animaux afin de calmer une bête enragée.</AnimalCalm.description>
+  <AnimalCalm.description>Utilise une méthode unique de connexion avec les animaux afin de calmer une bête enragée.</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} a réussi à calmer {RECIPIENT_labelShort}</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
